@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select dropdown customer with add new product</description>
+   <name>input_product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2662050-d915-4ab8-accf-46146b9ff84f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select dropdown existing product on the list</description>
+   <name>add_dropdown_product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86d1d6fb-5a73-4c7f-a4c5-3546a8242713</testCaseGuid>
+</TestCaseEntity>

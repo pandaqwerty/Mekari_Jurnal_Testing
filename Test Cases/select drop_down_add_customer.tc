@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select dropdown existing customer on the list</description>
+   <name>select drop_down_add_customer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ce17006-e6a3-4cfb-b4b9-e620e94d9091</testCaseGuid>
+   <variable>
+      <defaultValue>'Ujang'</defaultValue>
+      <description></description>
+      <id>c5c37457-cce0-49be-83a4-feddcb861474</id>
+      <masked>false</masked>
+      <name>name_customer</name>
+   </variable>
+   <variable>
+      <defaultValue>'jajan@gmail.com'</defaultValue>
+      <description></description>
+      <id>5a6870dc-76d6-4853-89ea-9f326dfb866d</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'jl.panjangn'</defaultValue>
+      <description></description>
+      <id>1c542312-930d-4c06-9393-284c0adf8758</id>
+      <masked>false</masked>
+      <name>address</name>
+   </variable>
+   <variable>
+      <defaultValue>'+62823472349'</defaultValue>
+      <description></description>
+      <id>52dcd66d-3997-406d-9580-025bb3742734</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+</TestCaseEntity>

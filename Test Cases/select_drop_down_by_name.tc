@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>select_drop_down_by_name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bec396e5-8fb9-4c3a-818d-5f01f0be1586</testCaseGuid>
+   <variable>
+      <defaultValue>'budi'</defaultValue>
+      <description></description>
+      <id>b9c62510-1253-4929-9359-b3144960b49b</id>
+      <masked>false</masked>
+      <name>nama</name>
+   </variable>
+</TestCaseEntity>
